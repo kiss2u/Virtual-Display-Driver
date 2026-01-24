@@ -50,6 +50,7 @@ foreach ($cert in $certificates) {
 Write-Host "Installing Virtual Display Driver silently..." -ForegroundColor Cyan;
 Push-Location $tempDir;
 & $NefConExe install .\VirtualDisplayDriver\MttVDD.inf "Root\MttVDD";
+Start-Sleep -Seconds 10;
 Pop-Location;
 
 Write-Host "Driver installation completed." -ForegroundColor Green;
