@@ -61,7 +61,7 @@ projects.
 
 | Project | Iddcx version | Signed | SDR | HDR | H-Cursor | Tweakable | ARM64 Support | Custom EDID | Floating Point Refresh Rates |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [Virtual-Display-Driver (HDR)] | 1.10 (latest) | ✅ | ✅ (8/10bit) | ✅ (1-/12bit) | ✅ | ✅ | ✅¹ | ✅ | ✅ |
+| [Virtual-Display-Driver (HDR)] | 1.10 (latest) | ✅ | ✅ (8/10bit) | ✅ (10/12bit) | ✅ | ✅ | ✅¹ | ✅ | ✅ |
 | [usbmmid_v2] |  | ✅ | ✅ (8bit) |  |  |  |  |  |  |
 | [virtual-display-rs] | 1.5 |  | ✅ (8bit) |  | ✅ | ✅ |  |  |  |
 | [parsec-vdd]| 1.5 | ✅ | ✅ (8bit) |  | ✅ | ✅ |  |  |  |
